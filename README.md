@@ -1,7 +1,6 @@
 ### Olá! Sou Vinicius Rodrigues Varela
 
 - 🔭 Hoje estudo programação
-- 🌱 Estudando react-js
 
 <div>
   <a href="https://github.com/Vinizin05">
