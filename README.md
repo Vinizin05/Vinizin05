@@ -1,6 +1,6 @@
 ### Olá! Sou Vinicius Rodrigues Varela
 
-- 🔭 Hoje estudo programação
+- 🔭 Full Stack
 
 <div>
   <a href="https://github.com/Vinizin05">
