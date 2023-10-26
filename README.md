@@ -1,6 +1,6 @@
 ### Olá! Sou Vinicius Rodrigues Varela
 
-- 🔭 Full Stack
+- 🔭 FrontEnd 
 
 <div>
   <a href="https://github.com/Vinizin05">
