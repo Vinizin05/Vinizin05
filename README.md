@@ -1,4 +1,4 @@
-<h1 align="center">Vinicius</h1>
+<h1 align="center">Vinicius Rodrigues Varela</h1>
 
 <p align="center">
   Full-stack developer building modern web applications with clean UI, solid performance, and scalable code.
