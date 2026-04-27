@@ -9,21 +9,19 @@ permissions:
   contents: write
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
-
       - uses: Platane/snk@v3
         with:
           github_user_name: Vinizin05
           outputs: |
-            dist/snake-dark.svg?palette=github-dark
-            dist/snake-dark.gif?palette=github-dark
+            dist/github-snake-dark.svg?palette=github-dark
 
-      - uses: peaceiris/actions-gh-pages@v3
+      - uses: crazy-max/ghaction-github-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: output
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
