@@ -7,5 +7,5 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 <p align="center">
-  <img src="https://github.com/Vinizin05/Vinizin05/blob/output/github-contribution-grid-snake.gif" />
+  <img src="https://raw.githubusercontent.com/Vinizin05/Vinizin05/output/github-contribution-grid-snake.gif" />
 </p>
