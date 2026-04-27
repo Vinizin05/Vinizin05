@@ -27,5 +27,9 @@ I am focused on creating responsive and well-structured applications, with atten
 ## Contribution Graph
 
 <p align="center">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Vinizin05/Vinizin05/output/github-contribution-grid-snake-dark.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vinizin05/Vinizin05/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vinizin05/Vinizin05/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Vinizin05/Vinizin05/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
